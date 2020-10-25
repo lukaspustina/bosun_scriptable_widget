@@ -1,6 +1,6 @@
 # iOS Scriptable Widget for Bosun
 
-This is a quick and dirty JavaScript snippet for the iOS app [Scriptable](https://scriptable.app) allowing to crate a Bosun Alarms overview widget for iOS 14+.
+This is a quick and dirty JavaScript snippet for the iOS app [Scriptable](https://scriptable.app) allowing to create a Bosun Alarms overview widget for iOS 14+.
 
 
 ## Preview
