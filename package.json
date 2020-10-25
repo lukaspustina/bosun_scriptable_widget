@@ -1,14 +1,16 @@
 {
   "name": "bosun_widget",
   "version": "1.0.0",
-  "description": "iOS Scriptable Wdiget",
+  "description": "iOS Scriptable Widget for Bosun",
+  "keywords": ["iOS", "Scriptable", "Bosun"],
+  "homepage": "https://github.com/lukaspustina/bosun_scriptable_widget",
+  "license": "MIT",
   "main": "src/index.js",
   "scripts": {
     "test": "NODE_TLS_REJECT_UNAUTHORIZED=0 node src/index.js",
     "lint": "eslint src"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Lukas Pustina <lukas@pustina.net>",
   "devDependencies": {
     "eslint": "^7.11.0"
   },
